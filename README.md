@@ -1,6 +1,6 @@
-UtilityBox
+# FunctionHub
 
-UtilityBox is a collection of useful functions that can be used in various programming projects. This repository includes three main files: DoubleIntegrator.py, BasisFunctionGenerator.py, and PointInTriangle.py.
+FunctionHub is a collection of useful functions that can be used in various programming projects. Currently, this repository includes three main files: DoubleIntegrator.py, BasisFunctionGenerator.py, and PointInTriangle.py.
 
 DoubleIntegrator.py
 
