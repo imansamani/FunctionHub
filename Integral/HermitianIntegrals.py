@@ -11,7 +11,7 @@ l4t4 = 1.0
 l4w4 = 1.0 / 6.0
 
 
-def integrate(t1, t2, x1, x2, f, dfdx):
+def int5(t1, t2, x1, x2, f, dfdx):
 
     def time_conversion(t):
         return t2mt1O2 * t + t2pt1O2
